@@ -1,2 +1,2 @@
 # Data Science Learning Pathway
-Please see the [wiki](https://github.com/ONSdigital/data_science_learning_pathway/wiki)
+Please see the [wiki](https://github.com/datasciencecampus/data_scientist_learning_pathway/wiki)
