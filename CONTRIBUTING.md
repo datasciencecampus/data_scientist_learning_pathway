@@ -26,7 +26,7 @@ We actively welcome your pull requests. To make the process as smooth as possibl
 
 ### Become a member of the team
 
-If you are an ONS collegue and you think you would like to make some more substantial contributions over an extended period of time please get in touch with a member of the [contributing team](https://github.com/orgs/ONSdigital/teams/learning-pathway-data-engineering), Kayla, or Diogo and we can add you to the GitHub team. 
+If you are an ONS collegue and you think you would like to make some more substantial contributions over an extended period of time please get in touch with Data Science Network chair & they can get you added to the GitHub team. 
 
 ## License
 
